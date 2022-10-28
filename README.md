@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on schoolwork and research.
 - 🌱 I’m learning about files and databases, operating systems, digital logic and computer design, and elementary number theory.
-- 📫 How to reach me: [jessewei.dev](https://jessewei.dev) has links to everywhere
+- 📫 How to reach me: [My website](https://jessewei.dev) has links to everywhere in the footer
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a speedcuber <span><img width=20px src="cube.jpg"></span> , and my PB (personal best) solve is 9.04 seconds.
 <!--
