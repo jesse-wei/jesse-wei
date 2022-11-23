@@ -1,4 +1,7 @@
-![Alt Text](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello there - Obi Wan Kenobi">
+ </p>
+  
 ### 👋 Hi, I'm Jesse
 
 - I’m currently working on schoolwork (Math & CS) and research at [UNC](https://unc.edu). I plan to work toward a Master's in CS starting Fall 2023.
