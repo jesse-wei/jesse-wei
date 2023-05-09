@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Jesse
 
-I am pursuing a Master's in CS at [UNC](https://unc.edu).
+I'm pursuing a Master's in CS at [UNC](https://unc.edu).
 
 I graduated with highest distinction from UNC with a B.S. in both Math and CS in 2023.
 
