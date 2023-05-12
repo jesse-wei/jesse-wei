@@ -7,5 +7,5 @@ I graduated with highest distinction from UNC with a B.S. in both Math and CS in
 ---
 
 <p align="center">
-  <a href="https://jessewei.dev"><img width=36px src="img/logo_outlined.png"></a> <a href="https://www.linkedin.com/in/jessew13/"><img width=36px src="img/linkedin_logo.jpg"></a>
+  <a href="https://jessewei.dev"><img width=36px src="img/logo_outlined_15.png"></a> <a href="https://www.linkedin.com/in/jessew13/"><img width=36px src="img/linkedin_logo.jpg"></a>
 </p>
