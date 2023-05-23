@@ -21,10 +21,3 @@ All of my contact information is on my [website](https://jessewei.dev).
 <!-- This includes private repos since it uses my own Vercel deployment, which uses a PAT with private repo access. See https://github.com/anuraghazra/github-readme-stats/issues/653 -->
 <!-- I hide Verilog, etc. because most of that is boilerplate code given in COMP 541 (private repo) -->
 <!-- I hide Jupyter Notebook and Mathematica because a lot of that is boilerplate and the numbers would be inaccurate if included -->
-
-<details>
-  <summary>My top languages (public repos only)</summary>
-
-  [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-wei&layout=compact&langs_count=12)](https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-wei&layout=compact&langs_count=10)
-
-</details>
