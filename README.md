@@ -4,7 +4,7 @@ I'm pursuing a Master's in CS at [UNC](https://unc.edu).
 
 I graduated with highest distinction from UNC with a B.S. in both Math and CS in 2023.
 
-All of my contact information is on my [website](https://jessewei.dev).
+All of my contact information is on my website [jessewei.dev](https://jessewei.dev).
 
 <p align="center">
   <a rel="me" href="https://jessewei.dev"><img height=48px src="img/logo_filled_outlined_6.png"></a>
