@@ -1,4 +1,4 @@
-### 👋 Hi, I'm [Jesse](https://jessewei.dev)
+👋 Hi, I'm [Jesse](https://jessewei.dev)
 
 I'm pursuing a Master's in CS at [UNC](https://unc.edu).
 
